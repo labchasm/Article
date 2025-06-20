@@ -1,2 +1,3 @@
-Lab CHASM
-# README.md
+## Lab CHASM
+--
+음악으로 재밌는 걸 하고 싶은 대학생들의 좌충우돌 이야기
